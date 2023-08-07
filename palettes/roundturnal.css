@@ -85,8 +85,8 @@
 
 /* discord vars */
 :root.theme-dark {
-    --background-tertiary: rgb(42, 43, 72);
-    --background-secondary: #18191D;
+    --background-tertiary: rgb(0, 0, 0);
+    --background-secondary: #030303;
     /* guild folder border background */
     --background-secondary-alt: var(--dark-primary);
     ;
